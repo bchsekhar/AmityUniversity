@@ -6,4 +6,12 @@ public class Test {
 		System.out.println("added next statement");
 		System.out.println("added code from cs branch");
 	}
+	
+	
+	String wish() {
+	return "Good Morning from CS Branch";
+	
+	}
+	
+	
 }
