@@ -5,10 +5,11 @@ public class Test {
 		System.out.println("Hello, World!");
 		System.out.println("added next statement");
 		System.out.println("added code from cs branch");
+		wish();
 	}
 	
 	
-	String wish() {
+	static String wish() {
 	return "Good Morning from CS Branch";
 	
 	}
