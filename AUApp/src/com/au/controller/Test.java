@@ -9,7 +9,7 @@ public class Test {
 	
 	
 	String wish() {
-	return "Good Morning from CS Branch";
+	return "Good Morning from Main Branch";
 	
 	}
 	
