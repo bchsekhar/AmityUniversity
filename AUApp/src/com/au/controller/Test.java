@@ -6,7 +6,7 @@ public class Test {
 		System.out.println("added next statement");
 		System.out.println("added code from cs branch");
 		wish();
-		System.out.println("added new sop");
+		System.out.println("added new sop")
 	}
 	
 	
